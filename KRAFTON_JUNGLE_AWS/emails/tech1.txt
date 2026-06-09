@@ -1,0 +1,25 @@
+Subject: Urgent - DU System Timeout Issues Affecting Closing Pipeline
+
+Good morning,
+
+Since 8:30 AM EST today, our entire lending team at Cornerstone Mortgage Solutions has been experiencing consistent timeout errors when submitting files through Desktop Underwriter. Error code DU-557 appears after about 45 seconds of processing.
+
+Loan case #: 2023456789
+Current impact:
+- 12 loans pending final approval
+- 4 scheduled closings tomorrow
+- 2 rate locks expiring today
+
+We've already:
+- Cleared browser cache
+- Tested multiple browsers
+- Verified network connectivity
+- Confirmed with 3 different user credentials
+
+Need immediate resolution to prevent delayed closings.
+
+Best regards,
+Robert Chen
+Operations Director
+Cornerstone Mortgage Solutions
+Direct: 555-123-4567

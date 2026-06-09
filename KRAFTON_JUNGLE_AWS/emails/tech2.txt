@@ -1,0 +1,18 @@
+Subject: HomeReady Program Income Calculation Question
+
+Hello Fannie Mae Support,
+
+I'm working on a unique income scenario for a HomeReady application (Case #8901234567) and need guidance on proper calculation methodology.
+
+Our borrower has:
+- Base salary: $65,000
+- Part-time gig economy income: $25,000
+- Rental income from basement unit: $15,600
+
+The gig economy income has increased by 35% in the last 6 months. How should we document and calculate this for DU submission? The Selling Guide seems unclear on trending income from app-based employment.
+
+Thanks in advance,
+Maria Gonzalez
+Senior Loan Officer
+First Choice Lending
+Phone: 555-987-6543

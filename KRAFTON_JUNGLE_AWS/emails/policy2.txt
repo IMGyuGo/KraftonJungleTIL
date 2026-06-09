@@ -1,0 +1,18 @@
+Subject: DU Integration Error After LOS Update
+
+Since upgrading our LOS yesterday, getting consistent XML formatting errors on all DU submissions. Error message: "Invalid data structure - Code 847"
+
+Case #: 2345678901
+Details:
+- Affects all new submissions
+- Test case fails same way
+- Previous submissions still work
+- No changes to mapping
+
+Tech support says integration settings unchanged. Need resolution ASAP.
+
+Best,
+Alan Wong
+Systems Administrator
+Capital City Lending
+IT Emergency: 555-876-5432
